@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 #Make errors better looking
-gem 'better_errors', '~> 2.5', '>= 2.5.1'
+gem 'better_errors', '~> 2.8'
 
 #Bulma CSS
 gem 'bulma-rails', '~> 0.7.5'
